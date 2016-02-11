@@ -7,19 +7,19 @@ The following two methods are implemented in LinkedList class:
 **add(index, item)** - Add an item to a specific location in the list.
 **remove(index)** - Remove an item from a specific location in the List.
 
-Implement the size method and a private helper method **getNode(int index)** to return the Node at a specific index.
+Implementing the size method and a private helper method **getNode(int index)** to return the Node at a specific index.
 
 ####Input and Output
 
 The input will consist of the number __t__ followed by __t__ lines with 1 pair of numbers on each line.
 
-**add(num)** represented by -9 n in input. Add n to the end of your LinkedList when a -9 appears.
+**add(num)** represented by -9 n in input. Adding n to the end of the LinkedList when a -9 appears.
 
-**get(index)** represented by -6 n in input. Get and print the number located at index n whenever a -6 appears.
+**get(index)** represented by -6 n in input. Getting and printing the number located at index n whenever a -6 appears.
 
 **add(index, item)** represented by 2 numbers a b in the input. The first number a will be a positive integer that represents the index where you should insert the second number b.
 
-**remove(index)** represented by -1 in the input. Remove a number from index n in the list and print its (integer) value.
+**remove(index)** represented by -1 in the input. Removing a number from index n in the list and print its (integer) value.
 (Printing each number on its own line.)
 
 ####Sample Input
