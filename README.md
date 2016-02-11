@@ -5,6 +5,7 @@ Linked List Implementation in C++ programming language via challenge scenario
 The following two methods are implemented in LinkedList class:
 
 **add(index, item)** - Add an item to a specific location in the list.
+
 **remove(index)** - Remove an item from a specific location in the List.
 
 Implementing the size method and a private helper method **getNode(int index)** to return the Node at a specific index.
